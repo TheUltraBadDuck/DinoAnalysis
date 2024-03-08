@@ -25,7 +25,7 @@ This is the analysis reports for several datasets I found. It contains many prob
 ## 4) Problems mentioned:
 
 ### Topic problems:
-|-----------------------------|--------|----------------------------|
+
 | Problem                     | Solved | Note                       |
 |-----------------------------|--------|----------------------------|
 | General Data Regression     | [x]    | In Boston Housing Analysis |
@@ -35,10 +35,10 @@ This is the analysis reports for several datasets I found. It contains many prob
 | Time series                 | [ ]    |                            |
 | Recommendation System       | [ ]    | Coming soon                |
 | Text classification         | [ ]    |                            |
-|-----------------------------|--------|----------------------------|
+
 
 ### Data problems:
-|-----------------------------|--------|----------------------------|
+
 | Problem                     | Solved | Note                       |
 |-----------------------------|--------|----------------------------|
 | Null Treatment              | [ ]    | Only dropping null         |
@@ -47,10 +47,10 @@ This is the analysis reports for several datasets I found. It contains many prob
 | Data Imbalance              | [ ]    | Using SMOTE                |
 | Data Scaling                | [ ]    | Using Standard Scaler      |
 | K-fold Cross Validation     | [x]    |                            |
-|-----------------------------|--------|----------------------------|
+
 
 ### Model problems:
-|-----------------------------|--------|----------------------------|
+
 | Problem                     | Solved | Note                       |
 |-----------------------------|--------|----------------------------|
 | Linear Regression           | [x]    |                            |
@@ -68,7 +68,4 @@ This is the analysis reports for several datasets I found. It contains many prob
 | ARIMA and its alternatives  | [ ]    |                            |
 | Neural Network              | [ ]    |                            |
 | ...                         | [ ]    |                            |
-|-----------------------------|--------|----------------------------|
-
-
 
