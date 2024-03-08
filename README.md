@@ -3,6 +3,7 @@
 ___
 
 What’s as big as a dinosaur but weighs nothing?
+
 *A dinosaur’s shadow.*
 
 ___
@@ -44,8 +45,8 @@ This is the analysis report for several datasets I found. It contains many probl
 | Null Treatment              |        | Only dropping null         |
 | Transforming Into Normal    | ✓      |                            |
 | Outlier Treatment           | ✓      |                            |
-| Data Imbalance              |        | Using SMOTE                |
-| Data Scaling                |        | Using Standard Scaler      |
+| Data Imbalance              | ✓      | Using SMOTE                |
+| Data Scaling                | ✓      | Using Standard Scaler      |
 | K-fold Cross Validation     | ✓      |                            |
 
 
